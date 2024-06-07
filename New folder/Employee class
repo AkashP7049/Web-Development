@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+class Empoyee
+{
+public:
+    Empoyee()
+    {
+        cout<<"hello ies"<<endl;
+    }
+};
+int main()
+{
+    Empoyee e1;
+    Empoyee e2;
+    return 0;
+}
+
